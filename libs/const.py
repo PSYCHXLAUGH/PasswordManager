@@ -1,0 +1,2 @@
+FOLDERNAME = "out"
+VERSION = "1.0"

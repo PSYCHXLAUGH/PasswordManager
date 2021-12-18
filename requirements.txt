@@ -1,0 +1,5 @@
+cryptography
+pyperclip
+cowpy
+prettytable
+colorama
